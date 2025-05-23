@@ -27,10 +27,6 @@ File utama adalah `list_mini_projects.xls`, yang berisi daftar project dengan ko
 | Enhancement Backdate pada menu Account Payable | Confins | [SD-347137](https://kb-fmf.atlassian.net/browse/SD-347137)                                                          | 26-01-2024|05-02-2024|
 
 
-
-https://github.com/anugrahrio/ListMiniProject/raw/refs/heads/main/List%20Mini%20Project.xlsx
-
-
 ## 🛠️ Tujuan
 
 - Menjadi pusat dokumentasi ringan & cepat untuk tracking project.
