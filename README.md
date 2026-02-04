@@ -4,9 +4,9 @@ Dokumentasi ringan untuk memantau progres dan referensi dari berbagai mini proje
 
 ## 📥 Download File
 
-📄 Anda dapat mengunduh file dokumentasi lengkap dalam format Excel melalui link berikut:
+📄 Anda dapat mengunduh atau melihat file dokumentasi lengkap dalam format Excel melalui link berikut:
 
-👉 [Download List Mini Project.xlsx](https://github.com/anugrahrio/ListMiniProject/raw/refs/heads/main/List%20Mini%20Project.xlsx)
+👉 [List Mini Project and Project](https://docs.google.com/spreadsheets/d/1cDaR0VisJgX3ZjChWi6IAZttycn4Z7KPx-eQgmEm9mU/edit?usp=sharing)
 
 
 ## 📌 Struktur File
